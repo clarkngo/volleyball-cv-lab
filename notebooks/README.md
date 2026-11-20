@@ -1,3 +1,5 @@
+← [Home](../README.md)
+
 # Notebooks
 
 One notebook per experiment, named `YYYY-MM-DD-short-topic.ipynb` (e.g. `2026-11-27-yolo-ball-detection.ipynb`).

@@ -1,3 +1,5 @@
+← [Home](../README.md)
+
 # Candidate models
 
 First pass of desk research (2026-11-20): read from papers, READMEs and search summaries. **Nothing here has been run on our footage yet.** Numbers are as reported by the authors, usually on other sports.
