@@ -1,0 +1,27 @@
+# Video and extracted frames stay out of git
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+frames/
+clips/raw/
+
+# Model weights and outputs
+*.pt
+*.pth
+*.onnx
+*.ckpt
+runs/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
