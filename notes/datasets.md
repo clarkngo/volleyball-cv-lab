@@ -1,3 +1,5 @@
+← [Home](../README.md)
+
 # Candidate datasets and footage
 
 First pass of desk research (2026-11-20), from papers, project pages and search summaries. **Nothing has been downloaded or inspected yet.** Check each license yourself before use.

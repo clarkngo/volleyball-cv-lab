@@ -1,3 +1,5 @@
+← [Home](../README.md)
+
 # Choosing the first rule
 
 Aim: one task narrow enough to finish and publish, clear enough to label consistently.
